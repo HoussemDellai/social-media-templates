@@ -8,7 +8,6 @@ namespace XamarinForms.Services
 {
     public class EventbriteService
     {
-
         /// <summary>
         /// Get another token from:
         /// https://www.eventbrite.co.uk/myaccount/apps/new/
