@@ -23,7 +23,6 @@ namespace XamarinForms.ViewModels
 
         public EventbriteViewModel()
         {
-
             DownloadDataAsync();
         }
 
