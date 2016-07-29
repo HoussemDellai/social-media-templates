@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata minClientVersion="2.8.3">
+    <id>Plugin.Youtube</id>
+    <version>1.0.1</version>
+    <title>Youtube Plugin for Xamarin and Windows</title>
+    <authors>Houssem Dellai</authors>
+    <owners>Houssem Dellai</owners>
+    <licenseUrl>
+      https://github.com/HoussemDellai/social-media-templates
+    </licenseUrl>
+    <projectUrl>
+      https://github.com/HoussemDellai/social-media-templates
+    </projectUrl>
+    <iconUrl>
+      https://github.com/HoussemDellai/social-media-templates/blob/master/Icons/plugin.youtube.PNG?raw=true
+    </iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Provides a sample implementation of a ContentPage that shows Youtube videos of a specific user or playlist using the Youtube API.
+    </description>
+    <summary>Provides a sample implementation of a ContentPage that shows videos of a specific user or playlist using the Youtube API.</summary>
+    <tags>xamarin, pcl, xam.pcl, plugin, plugin for xamarin, windows phone, winphone, wp8, winrt, android, xamarin.forms, ios, Youtube</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="8.0.3" />
+      <dependency id="Microsoft.Net.Http" version="2.2.29" />
+      <!--<dependency id="Plugin.Share" version="4.0.2" />-->
+      <!--<group targetFramework="net">
+			</group>
+			<group targetFramework="win">
+			</group>
+			<group targetFramework="wp">
+			</group>
+			<group targetFramework="wpa">
+			</group>
+			<group targetFramework="MonoAndroid">
+			</group>
+			<group targetFramework="Xamarin.iOS10">
+			</group>
+			<group targetFramework="Xamarin.Mac20">
+			</group>
+			<group targetFramework="portable-net45+win+wpa81+wp80">
+			</group>
+			<group targetFramework="uap">
+			</group>
+			<group targetFramework="dotnet">
+			</group>-->
+    </dependencies>
+  </metadata>
+  <files>
+    <!--Core-->
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\Models\YoutubeItem.cs"
+          target="content\Models\YoutubeItem.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\ViewModels\YoutubeViewModel.cs"
+          target="content\ViewModels\YoutubeViewModel.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\Views\YoutubeViewPage.cs"
+          target="content\Views\YoutubeViewPage.cs" />
+    <!--<file src="readme.txt" 
+          target="content\readme.txt"/>-->
+  </files>
+</package>

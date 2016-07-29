@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:XamarinForms.ViewModels;assembly=XamarinForms"
+             x:Class="XamarinForms.Views.FlickrPage"
+             Title="Flickr">
+
+  <ContentPage.BindingContext>
+    <viewModels:FlickrViewModel/>
+  </ContentPage.BindingContext>
+
+  <StackLayout Padding="5,10"
+               BackgroundColor="White">
+
+    <Label Text="Flickr"
+           TextColor="Black"
+           FontSize="22"/>
+
+    <ListView ItemsSource="{Binding FlickrItems}"
+              HasUnevenRows="True">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+
+            <StackLayout Orientation="Horizontal">
+              <Image Source="{Binding OwnerImageUrl}"
+                     WidthRequest="60"
+                     HeightRequest="60"
+                     VerticalOptions="Start"/>
+
+              <StackLayout Orientation="Vertical">
+                <Label Text="{Binding OwnerName}"
+                       TextColor="#009688"
+                       FontSize="22"/>
+                <Label Text="{Binding Views, StringFormat='{0:n0} views'}"
+                       TextColor="#00897B"
+                       FontSize="14"/>
+                <Label Text="{Binding Title}"
+                       TextColor="Black"
+                       FontSize="16"/>
+                <Image Source="{Binding MediumImageUrl}"
+                       HeightRequest="200"/>
+                <Label Text="{Binding Description}"
+                       TextColor="Gray"
+                       FontSize="14"/>
+              </StackLayout>
+            </StackLayout>
+
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+
+</ContentPage>

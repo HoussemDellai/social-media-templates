@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:XamarinForms.ViewModels;assembly=XamarinForms"
+             x:Class="XamarinForms.Views.InstagramPage"
+             Title="Instagram">
+
+  <ContentPage.BindingContext>
+    <viewModels:InstagramViewModel/>
+  </ContentPage.BindingContext>
+
+  <StackLayout Padding="5,10"
+               BackgroundColor="White">
+
+    <Label Text="Instagram"
+           TextColor="Black"
+           FontSize="22"/>
+
+    <ListView ItemsSource="{Binding InstagramItems}"
+              HasUnevenRows="True">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+
+            <StackLayout Orientation="Horizontal">
+              <Image Source="{Binding ProfilePicture}"
+                     WidthRequest="60"
+                     HeightRequest="60"
+                     VerticalOptions="Start"/>
+
+              <StackLayout Orientation="Vertical">
+                <Label Text="{Binding UserName}"
+                       TextColor="#1c5380"
+                       FontSize="22"/>
+                <StackLayout Orientation="Horizontal">
+                  <Label Text="{Binding LikesCount, StringFormat='{0:n0} likes | '}"
+                         TextColor="#517fa4"
+                         FontSize="14"/>
+                  <Label Text="{Binding CommentsCount, StringFormat='{0:n0} comments'}"
+                         TextColor="#517fa4"
+                         FontSize="14"/>
+                </StackLayout>
+                <Label Text="{Binding Text}"
+                       TextColor="Black"
+                       FontSize="18"/>
+                <Image Source="{Binding StandardResolutionUrl}" 
+                       HeightRequest="200"/>
+
+              </StackLayout>
+            </StackLayout>
+
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+
+</ContentPage>

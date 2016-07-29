@@ -1,0 +1,4713 @@
+﻿{
+  "meta": {
+    "code": 200,
+    "requestId": "575be392498e166500068a45"
+  },
+  "notifications": [
+    {
+      "type": "notificationTray",
+      "item": { "unreadCount": 5 }
+    }
+  ],
+  "response": {
+    "suggestedFilters": {
+      "header": "Tap to show:",
+      "filters": [
+        {
+          "name": "$-$$$$",
+          "key": "price"
+        }
+      ]
+    },
+    "headerLocation": "New York",
+    "headerFullLocation": "New York",
+    "headerLocationGranularity": "city",
+    "totalResults": 145,
+    "suggestedBounds": {
+      "ne": {
+        "lat": 40.709000009000015,
+        "lng": -73.98815090608028
+      },
+      "sw": {
+        "lat": 40.69099999099999,
+        "lng": -74.01184909391972
+      }
+    },
+    "groups": [
+      {
+        "type": "Recommended Places",
+        "name": "recommended",
+        "items": [
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "51eabef6498e10cf3aea7942",
+              "name": "Brooklyn Bridge Park - Pier 2",
+              "contact": { },
+              "location": {
+                "address": "Furman St",
+                "crossStreet": "Brooklyn Bridge Park Greenway",
+                "lat": 40.699717600729166,
+                "lng": -73.99826558632256,
+                "distance": 149,
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Furman St (Brooklyn Bridge Park Greenway)", "Brooklyn, NY", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d163941735",
+                  "name": "Park",
+                  "pluralName": "Parks",
+                  "shortName": "Park",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 2885,
+                "usersCount": 2155,
+                "tipCount": 19
+              },
+              "rating": 9.3,
+              "ratingColor": "00B551",
+              "ratingSignals": 165,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "5216c35211d2d203cbf366c7",
+                        "createdAt": 1377223506,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/63892328_N0A_9qgk0N30lHiqDWIRtNb-0YfO84BIxHc9SP7h4rY.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "63892328",
+                          "firstName": "Margarita",
+                          "lastName": "Agafonova",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/63892328-ZXO1GSG0LK4ELTC3.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "5216c35211d2d203cbf366c7",
+                    "createdAt": 1377223506,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/63892328_N0A_9qgk0N30lHiqDWIRtNb-0YfO84BIxHc9SP7h4rY.jpg",
+                    "width": 612,
+                    "height": 612,
+                    "user": {
+                      "id": "63892328",
+                      "firstName": "Margarita",
+                      "lastName": "Agafonova",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs0.4sqi.net/img/user/",
+                        "suffix": "/63892328-ZXO1GSG0LK4ELTC3.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "5381045b498e4561c080026e",
+                "createdAt": 1400964187,
+                "text": "I love it - great place to play with your kids. I was on the swings, the exercise section & played soccer on the field. Can't wait for the rollerskating rink to open.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5381045b498e4561c080026e",
+                "likes": {
+                  "count": 3,
+                  "groups": [ ],
+                  "summary": "3 likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Nov 30, 2014",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "2335697",
+                  "firstName": "Danielle",
+                  "lastName": "Montgomery",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/RTFO4NIEAP505GWF.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-51eabef6498e10cf3aea7942-0"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c5435bf4623be9a62ee66f2",
+              "name": "Brooklyn Bridge Park - Pier 4",
+              "contact": { },
+              "location": {
+                "address": "214 Furman St",
+                "crossStreet": "Montague St",
+                "lat": 40.69794493725559,
+                "lng": -73.99792126464878,
+                "distance": 288,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "214 Furman St (Montague St)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d163941735",
+                  "name": "Park",
+                  "pluralName": "Parks",
+                  "shortName": "Park",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1314,
+                "usersCount": 1040,
+                "tipCount": 7
+              },
+              "url": "http://www.brooklynbridgepark.org/the-park/future-park/pier-4",
+              "rating": 8.9,
+              "ratingColor": "73CF42",
+              "ratingSignals": 57,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "4f5ceaa3e4b0ea8599f077d6",
+                        "createdAt": 1331489443,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/VC_gCz1z_SUdioG4rKg7HeLAgQJ1hNjnEWeZfmyCZFE.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "15659065",
+                          "firstName": "Simon",
+                          "lastName": "Collison",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/HOMEGNWZFUIHJQKQ.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "4f5ceaa3e4b0ea8599f077d6",
+                    "createdAt": 1331489443,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/VC_gCz1z_SUdioG4rKg7HeLAgQJ1hNjnEWeZfmyCZFE.jpg",
+                    "width": 612,
+                    "height": 612,
+                    "user": {
+                      "id": "15659065",
+                      "firstName": "Simon",
+                      "lastName": "Collison",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs3.4sqi.net/img/user/",
+                        "suffix": "/HOMEGNWZFUIHJQKQ.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "531b401011d2d3eb44711282",
+                "createdAt": 1394294800,
+                "text": "Sun bathing his highly recommended",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/531b401011d2d3eb44711282",
+                "likes": {
+                  "count": 3,
+                  "groups": [ ],
+                  "summary": "3 likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Aug 20, 2014",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "603972",
+                  "firstName": "luke",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://irs0.4sqi.net/img/user/",
+                    "suffix": "/0TE5AB0APHS5GJRH.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4c5435bf4623be9a62ee66f2-1"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "42377700f964a52024201fe3",
+              "name": "Brooklyn Heights Promenade",
+              "contact": { },
+              "location": {
+                "address": "Columbia Heights",
+                "crossStreet": "btwn Remsen & Orange",
+                "lat": 40.69829137715981,
+                "lng": -73.99663209915161,
+                "distance": 342,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Columbia Heights (btwn Remsen & Orange)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d163941735",
+                  "name": "Park",
+                  "pluralName": "Parks",
+                  "shortName": "Park",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 22393,
+                "usersCount": 10967,
+                "tipCount": 192
+              },
+              "url": "http://nyharborparks.org/visit/brhe.html",
+              "rating": 9.6,
+              "ratingColor": "00B551",
+              "ratingSignals": 992,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "51855f6a498ee8df07045081",
+                        "createdAt": 1367695210,
+                        "prefix": "https://irs0.4sqi.net/img/general/",
+                        "suffix": "/9043084_VTDRG0ATvad0jtMY36a0cuzwvUjOCFMUDB-3WkUObVU.jpg",
+                        "width": 1920,
+                        "height": 1440,
+                        "user": {
+                          "id": "9043084",
+                          "firstName": "Nils",
+                          "lastName": "Moeller",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/PV4PK23VIEAPIJSY.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "51855f6a498ee8df07045081",
+                    "createdAt": 1367695210,
+                    "prefix": "https://irs0.4sqi.net/img/general/",
+                    "suffix": "/9043084_VTDRG0ATvad0jtMY36a0cuzwvUjOCFMUDB-3WkUObVU.jpg",
+                    "width": 1920,
+                    "height": 1440,
+                    "user": {
+                      "id": "9043084",
+                      "firstName": "Nils",
+                      "lastName": "Moeller",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs3.4sqi.net/img/user/",
+                        "suffix": "/PV4PK23VIEAPIJSY.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4ea188b58231f6dc69a0f94d",
+                "createdAt": 1319209141,
+                "text": "One of the best views of Manhattan and the Brooklyn Bridge.  This long path is perfect for a romantic walk after dinner, just don't forget to stop and gaze at the beautiful NYC skyline.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4ea188b58231f6dc69a0f94d",
+                "likes": {
+                  "count": 19,
+                  "groups": [ ],
+                  "summary": "19 likes"
+                },
+                "logView": true,
+                "agreeCount": 19,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted May 31, 2015",
+                "todo": { "count": 8 },
+                "user": {
+                  "id": "13889528",
+                  "firstName": "New York Habitat",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/PGPPIGGHW44SEI4X.jpg"
+                  },
+                  "type": "chain"
+                }
+              }
+            ],
+            "referralId": "e-0-42377700f964a52024201fe3-2"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "430d0a00f964a5203e271fe3",
+              "name": "Brooklyn Bridge Park",
+              "contact": {
+                "phone": "+12128033822",
+                "formattedPhone": "+1 212-803-3822",
+                "twitter": "nycparks",
+                "facebook": "104475634308",
+                "facebookUsername": "BartowPell",
+                "facebookName": "Bartow-Pell Mansion Museum"
+              },
+              "location": {
+                "address": "Main St",
+                "crossStreet": "Plymouth St",
+                "lat": 40.70227697066692,
+                "lng": -73.9965033531189,
+                "distance": 389,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Main St (Plymouth St)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d163941735",
+                  "name": "Park",
+                  "pluralName": "Parks",
+                  "shortName": "Park",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 42739,
+                "usersCount": 25659,
+                "tipCount": 311
+              },
+              "url": "http://nyc.gov/parks",
+              "rating": 9.7,
+              "ratingColor": "00B551",
+              "ratingSignals": 2149,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "51888d97498ef7f58e0686a3",
+                        "createdAt": 1367903639,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/29797551_Gl0N3YYNpnAt7nJd_ujqBmI7rvcJSREurkNCunKzAFg.jpg",
+                        "width": 1920,
+                        "height": 1440,
+                        "user": {
+                          "id": "29797551",
+                          "firstName": "Amanda",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/G3EPJ0UTMXXYJUSO.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "51888d97498ef7f58e0686a3",
+                    "createdAt": 1367903639,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/29797551_Gl0N3YYNpnAt7nJd_ujqBmI7rvcJSREurkNCunKzAFg.jpg",
+                    "width": 1920,
+                    "height": 1440,
+                    "user": {
+                      "id": "29797551",
+                      "firstName": "Amanda",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs2.4sqi.net/img/user/",
+                        "suffix": "/G3EPJ0UTMXXYJUSO.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "533cdcc011d22c65ce8bc789",
+                "createdAt": 1396497600,
+                "text": "I have never worn skinny jeans, but if I did I would wear them here.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/533cdcc011d22c65ce8bc789",
+                "likes": {
+                  "count": 83,
+                  "groups": [ ],
+                  "summary": "83 likes"
+                },
+                "logView": true,
+                "agreeCount": 82,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Apr 20",
+                "todo": { "count": 5 },
+                "user": {
+                  "id": "82505562",
+                  "firstName": "The Most Interesting Man in the World",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/82505562-GOFQHX5S4J5IX5FZ.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-430d0a00f964a5203e271fe3-3"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c3a5ad83849c92880e0c2b1",
+              "name": "Blue Marble Ice Cream",
+              "contact": { "twitter": "bluemarblebk" },
+              "location": {
+                "address": "Brooklyn Bridge Park - Pier 1",
+                "lat": 40.70136599888968,
+                "lng": -73.99794101715088,
+                "distance": 230,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Brooklyn Bridge Park - Pier 1", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1c9941735",
+                  "name": "Ice Cream Shop",
+                  "pluralName": "Ice Cream Shops",
+                  "shortName": "Ice Cream",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 160,
+                "usersCount": 133,
+                "tipCount": 18
+              },
+              "url": "https://www.facebook.com/pages/Blue-Marble-Ice-Cream/415075860304",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 8.2,
+              "ratingColor": "73CF42",
+              "ratingSignals": 25,
+              "allowMenuUrlEdit": true,
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "4fb804d4e4b0f6ea375d567c",
+                        "createdAt": 1337459924,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/_mUo_5Zs8ymFqiiMiyNNhYlbiWD90DEHOYJNDUrBXbc.jpg",
+                        "width": 537,
+                        "height": 720,
+                        "user": {
+                          "id": "140082",
+                          "firstName": "Joy",
+                          "lastName": "Martinez",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/F1KPHZIV01FILMD3.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "4fb804d4e4b0f6ea375d567c",
+                    "createdAt": 1337459924,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/_mUo_5Zs8ymFqiiMiyNNhYlbiWD90DEHOYJNDUrBXbc.jpg",
+                    "width": 537,
+                    "height": 720,
+                    "user": {
+                      "id": "140082",
+                      "firstName": "Joy",
+                      "lastName": "Martinez",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs2.4sqi.net/img/user/",
+                        "suffix": "/F1KPHZIV01FILMD3.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4db974c1ffcbbc7fb76c42cd",
+                "createdAt": 1303999681,
+                "text": "All the ice creams here are made with dairy from an organic dairy cooperative in Lancaster, Pennsylvania.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4db974c1ffcbbc7fb76c42cd",
+                "likes": {
+                  "count": 6,
+                  "groups": [ ],
+                  "summary": "6 likes"
+                },
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": { "count": 3 },
+                "user": {
+                  "id": "8408071",
+                  "firstName": "Food & Wine",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs2.4sqi.net/img/user/",
+                    "suffix": "/RO31WTIM13ESWGIL.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-4c3a5ad83849c92880e0c2b1-4"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b81ea40f964a520e0c330e3",
+              "name": "Brooklyn Bridge Park - Pier 1",
+              "contact": { "twitter": "bklynbrdgpark" },
+              "location": {
+                "address": "334 Furman St",
+                "crossStreet": "Cranberry",
+                "lat": 40.702634,
+                "lng": -73.996119,
+                "distance": 439,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "334 Furman St (Cranberry)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d163941735",
+                  "name": "Park",
+                  "pluralName": "Parks",
+                  "shortName": "Park",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 15940,
+                "usersCount": 10285,
+                "tipCount": 71
+              },
+              "url": "http://www.brooklynbridgepark.org",
+              "rating": 9.5,
+              "ratingColor": "00B551",
+              "ratingSignals": 228,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "4fb838e7e4b06d1e6995a648",
+                        "createdAt": 1337473255,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/H8GvE7unJYcfYesC6eTbB_6FqRU528h45ue5bNIpnT8.jpg",
+                        "width": 720,
+                        "height": 540,
+                        "user": {
+                          "id": "24491135",
+                          "firstName": "Amanda",
+                          "lastName": "Legene",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/IWEZCJ3CIFW5L3CD.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "4fb838e7e4b06d1e6995a648",
+                    "createdAt": 1337473255,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/H8GvE7unJYcfYesC6eTbB_6FqRU528h45ue5bNIpnT8.jpg",
+                    "width": 720,
+                    "height": 540,
+                    "user": {
+                      "id": "24491135",
+                      "firstName": "Amanda",
+                      "lastName": "Legene",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs0.4sqi.net/img/user/",
+                        "suffix": "/IWEZCJ3CIFW5L3CD.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "5162c51ee4b0946e1c63f2b5",
+                "createdAt": 1365427486,
+                "text": "Many types of birds and crustaceans have made themselves at home in the salt marsh at Pier 1.  We can't blame them- the view is spectacular!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5162c51ee4b0946e1c63f2b5",
+                "photo": {
+                  "id": "5162c51f7ab49c026b2b15bc",
+                  "createdAt": 1365427487,
+                  "source": {
+                    "name": "Foursquare Web",
+                    "url": "https://foursquare.com"
+                  },
+                  "prefix": "https://irs0.4sqi.net/img/general/",
+                  "suffix": "/13764780__bnl3AdEOgNoLoIM5xGj95juKyPkO4huoIkI9IuzqqU.jpg",
+                  "width": 800,
+                  "height": 521,
+                  "visibility": "public"
+                },
+                "photourl": "https://irs0.4sqi.net/img/general/original/13764780__bnl3AdEOgNoLoIM5xGj95juKyPkO4huoIkI9IuzqqU.jpg",
+                "likes": {
+                  "count": 113,
+                  "groups": [ ],
+                  "summary": "113 likes"
+                },
+                "logView": true,
+                "agreeCount": 113,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Jul 12, 2014",
+                "todo": { "count": 18 },
+                "user": {
+                  "id": "13764780",
+                  "firstName": "City of New York",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/2X1FKJPUY3DGRRK3.png"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-4b81ea40f964a520e0c330e3-5"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4ebac60a0cd6904066e4108f",
+              "name": "Brookyn Bridge Park Greenway",
+              "contact": { },
+              "location": {
+                "address": "Fulton Ferry Landing to Atlantic Ave.",
+                "lat": 40.70025980212479,
+                "lng": -73.99698615074158,
+                "distance": 255,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Fulton Ferry Landing to Atlantic Ave.", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d163941735",
+                  "name": "Park",
+                  "pluralName": "Parks",
+                  "shortName": "Park",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 666,
+                "usersCount": 434,
+                "tipCount": 1
+              },
+              "rating": 8.2,
+              "ratingColor": "73CF42",
+              "ratingSignals": 21,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "5606fc45498ea326e651da93",
+                        "createdAt": 1443298373,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/92135148_2XT_giarCjx7zLrZsxsvJubLG6SoSejYUIguDfiomAQ.jpg",
+                        "width": 1711,
+                        "height": 1440,
+                        "user": {
+                          "id": "92135148",
+                          "firstName": "Cenk",
+                          "lastName": "TEZMAN",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/92135148-XMYICV0THGMZVSNR.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "5606fc45498ea326e651da93",
+                    "createdAt": 1443298373,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/92135148_2XT_giarCjx7zLrZsxsvJubLG6SoSejYUIguDfiomAQ.jpg",
+                    "width": 1711,
+                    "height": 1440,
+                    "user": {
+                      "id": "92135148",
+                      "firstName": "Cenk",
+                      "lastName": "TEZMAN",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs2.4sqi.net/img/user/",
+                        "suffix": "/92135148-XMYICV0THGMZVSNR.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "543a10e0498e909aa37ed5e1",
+                "createdAt": 1413091552,
+                "text": "Have a picnic here!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/543a10e0498e909aa37ed5e1",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "13708620",
+                  "firstName": "Kimmie",
+                  "lastName": "Ohh",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs0.4sqi.net/img/user/",
+                    "suffix": "/13708620-YDTNZAQKO5BQZJ2R.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4ebac60a0cd6904066e4108f-6"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "50f42758e4b0c827050a968a",
+              "name": "Brooklyn Heights Promenade Garden 2",
+              "contact": { },
+              "location": {
+                "lat": 40.69573933748419,
+                "lng": -73.99800160642802,
+                "distance": 503,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d15a941735",
+                  "name": "Garden",
+                  "pluralName": "Gardens",
+                  "shortName": "Garden",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1681,
+                "usersCount": 1374,
+                "tipCount": 15
+              },
+              "rating": 9.3,
+              "ratingColor": "00B551",
+              "ratingSignals": 61,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "5175466fe4b0199b45a68413",
+                        "createdAt": 1366640239,
+                        "prefix": "https://irs0.4sqi.net/img/general/",
+                        "suffix": "/37025720_2JPyRTT2h-kv_63QDnXqAcd-EuIPAjh1w__18HuU9mU.jpg",
+                        "width": 960,
+                        "height": 720,
+                        "user": {
+                          "id": "37025720",
+                          "firstName": "Laurency",
+                          "lastName": "Wyatt",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/EFIPBRPNPTXWFH3M.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "5175466fe4b0199b45a68413",
+                    "createdAt": 1366640239,
+                    "prefix": "https://irs0.4sqi.net/img/general/",
+                    "suffix": "/37025720_2JPyRTT2h-kv_63QDnXqAcd-EuIPAjh1w__18HuU9mU.jpg",
+                    "width": 960,
+                    "height": 720,
+                    "user": {
+                      "id": "37025720",
+                      "firstName": "Laurency",
+                      "lastName": "Wyatt",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs0.4sqi.net/img/user/",
+                        "suffix": "/EFIPBRPNPTXWFH3M.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "513cd480e4b0bfae26c8079c",
+                "createdAt": 1362941056,
+                "text": "Such a pretty view! If you have friends or family visiting bring them here! This is also a great place for a run when the weather permits.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/513cd480e4b0bfae26c8079c",
+                "likes": {
+                  "count": 9,
+                  "groups": [ ],
+                  "summary": "9 likes"
+                },
+                "logView": true,
+                "agreeCount": 9,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted May 7, 2014",
+                "todo": { "count": 1 },
+                "user": {
+                  "id": "18501535",
+                  "firstName": "Erica",
+                  "lastName": "Carter",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/KZ3UVEDZVRLV0XT4.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-50f42758e4b0c827050a968a-7"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bae3497f964a5200a923be3",
+              "name": "Pierrepont Playground",
+              "contact": {
+                "twitter": "nycparks",
+                "facebook": "104475634308",
+                "facebookUsername": "BartowPell",
+                "facebookName": "Bartow-Pell Mansion Museum"
+              },
+              "location": {
+                "address": "Pierrepont Street",
+                "crossStreet": "Pierrepont Place",
+                "lat": 40.696263,
+                "lng": -73.997358,
+                "distance": 471,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Pierrepont Street (Pierrepont Place)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e7941735",
+                  "name": "Playground",
+                  "pluralName": "Playgrounds",
+                  "shortName": "Playground",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1228,
+                "usersCount": 677,
+                "tipCount": 4
+              },
+              "url": "http://nyc.gov/parks",
+              "rating": 8.9,
+              "ratingColor": "73CF42",
+              "ratingSignals": 22,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "4f9c6270e4b09fef5396fe24",
+                        "createdAt": 1335648880,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/M9nM1E4MreFoP14aR1dOBb11Q6I0fkAZPVVMDxFpptY.jpg",
+                        "width": 540,
+                        "height": 720,
+                        "user": {
+                          "id": "25838380",
+                          "firstName": "Bessie",
+                          "lastName": "Ortega",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/ZUNRQBHDYGMXRRKN.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "4f9c6270e4b09fef5396fe24",
+                    "createdAt": 1335648880,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/M9nM1E4MreFoP14aR1dOBb11Q6I0fkAZPVVMDxFpptY.jpg",
+                    "width": 540,
+                    "height": 720,
+                    "user": {
+                      "id": "25838380",
+                      "firstName": "Bessie",
+                      "lastName": "Ortega",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs3.4sqi.net/img/user/",
+                        "suffix": "/ZUNRQBHDYGMXRRKN.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "56e5a863498e50e8590a0159",
+                "createdAt": 1457891427,
+                "text": "Great location for a New York City sunset.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/56e5a863498e50e8590a0159",
+                "photo": {
+                  "id": "56e5a866498eb3d19cd027c0",
+                  "createdAt": 1457891430,
+                  "source": {
+                    "name": "Foursquare for iOS",
+                    "url": "https://foursquare.com/download/#/iphone"
+                  },
+                  "prefix": "https://irs0.4sqi.net/img/general/",
+                  "suffix": "/49119648_QWewOv89_kmxuTnKgAOuoNMT2ANRNrrnS4Yq8wWjxrs.jpg",
+                  "width": 1440,
+                  "height": 1440,
+                  "visibility": "public"
+                },
+                "photourl": "https://irs0.4sqi.net/img/general/original/49119648_QWewOv89_kmxuTnKgAOuoNMT2ANRNrrnS4Yq8wWjxrs.jpg",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "49119648",
+                  "firstName": "Gabriel",
+                  "lastName": "Hayes",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://irs0.4sqi.net/img/user/",
+                    "suffix": "/5F0QJOYDZ1PZAOOG.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4bae3497f964a5200a923be3-8"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4a6c8f18f964a520d0d01fe3",
+              "name": "Hillside Dog Park",
+              "contact": { },
+              "location": {
+                "address": "Columbia Heights",
+                "crossStreet": "at Vine Street",
+                "lat": 40.70147196396388,
+                "lng": -73.99429396859578,
+                "distance": 508,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Columbia Heights (at Vine Street)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e5941735",
+                  "name": "Dog Run",
+                  "pluralName": "Dog Runs",
+                  "shortName": "Dog Run",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 4596,
+                "usersCount": 1483,
+                "tipCount": 29
+              },
+              "rating": 9.2,
+              "ratingColor": "00B551",
+              "ratingSignals": 100,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "512a6f6ee4b0067bae164e65",
+                        "createdAt": 1361735534,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/12533787_xAXDqmTPlTXf5pj3a_TSh4pdNrvHON3RomRnxc7KcXU.jpg",
+                        "width": 960,
+                        "height": 720,
+                        "user": {
+                          "id": "12533787",
+                          "firstName": "Laura",
+                          "lastName": "Clemons",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/2Y2J04R2MVYHRIAF.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "512a6f6ee4b0067bae164e65",
+                    "createdAt": 1361735534,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/12533787_xAXDqmTPlTXf5pj3a_TSh4pdNrvHON3RomRnxc7KcXU.jpg",
+                    "width": 960,
+                    "height": 720,
+                    "user": {
+                      "id": "12533787",
+                      "firstName": "Laura",
+                      "lastName": "Clemons",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs2.4sqi.net/img/user/",
+                        "suffix": "/2Y2J04R2MVYHRIAF.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4db493c093a017099ddbe33f",
+                "createdAt": 1303679936,
+                "text": "Ahhh, BQE fumes...stop at Brooklyn Ice Cream Factory on your way home!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4db493c093a017099ddbe33f",
+                "likes": {
+                  "count": 6,
+                  "groups": [ ],
+                  "summary": "6 likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Mar 12",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "2174831",
+                  "firstName": "Alexandra",
+                  "lastName": "Dedrick",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/OCCQNGNO53SWKBTO.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4a6c8f18f964a520d0d01fe3-9"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4a634cb2f964a520b2c41fe3",
+              "name": "Bargemusic",
+              "contact": {
+                "phone": "+17186244924",
+                "formattedPhone": "+1 718-624-4924"
+              },
+              "location": {
+                "address": "2 Furman St.",
+                "crossStreet": "at Fulton Ferry Landing",
+                "lat": 40.703098461318135,
+                "lng": -73.99521589279175,
+                "distance": 531,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "2 Furman St. (at Fulton Ferry Landing)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d12d951735",
+                  "name": "Boat or Ferry",
+                  "pluralName": "Boats or Ferries",
+                  "shortName": "Boat / Ferry",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/boat_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 766,
+                "usersCount": 623,
+                "tipCount": 6
+              },
+              "rating": 8.8,
+              "ratingColor": "73CF42",
+              "ratingSignals": 34,
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "56db490a498e330035c70219",
+                        "createdAt": 1457211658,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/53337070_spiYe5aROCfWjp0WbN8_L5eJI-RXjBOWDqfeEravU14.jpg",
+                        "width": 1920,
+                        "height": 1440,
+                        "user": {
+                          "id": "53337070",
+                          "firstName": "Emily",
+                          "lastName": "Sauer",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/HTKZDLKXP0TB1LIR.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "56db490a498e330035c70219",
+                    "createdAt": 1457211658,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/53337070_spiYe5aROCfWjp0WbN8_L5eJI-RXjBOWDqfeEravU14.jpg",
+                    "width": 1920,
+                    "height": 1440,
+                    "user": {
+                      "id": "53337070",
+                      "firstName": "Emily",
+                      "lastName": "Sauer",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs1.4sqi.net/img/user/",
+                        "suffix": "/HTKZDLKXP0TB1LIR.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4f80a075e4b0ef20985999f3",
+                "createdAt": 1333829749,
+                "text": "Free concert every Saturday at 3, beautiful setting",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4f80a075e4b0ef20985999f3",
+                "likes": {
+                  "count": 2,
+                  "groups": [ ],
+                  "summary": "2 likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Mar 14, 2015",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "7662066",
+                  "firstName": "Audrey",
+                  "lastName": "Aponte",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/AGQIV2YF5CSC0UEM.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4a634cb2f964a520b2c41fe3-10"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4471bf9af964a5209c331fe3",
+              "name": "Jack the Horse Tavern",
+              "contact": {
+                "phone": "+17188525084",
+                "formattedPhone": "+1 718-852-5084",
+                "twitter": "jthtavern"
+              },
+              "location": {
+                "address": "66 Hicks St",
+                "crossStreet": "at Cranberry",
+                "lat": 40.69993286239937,
+                "lng": -73.9936975351119,
+                "distance": 531,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "66 Hicks St (at Cranberry)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d14e941735",
+                  "name": "American Restaurant",
+                  "pluralName": "American Restaurants",
+                  "shortName": "American",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 4787,
+                "usersCount": 2417,
+                "tipCount": 81
+              },
+              "url": "http://www.jackthehorse.com",
+              "price": {
+                "tier": 3,
+                "message": "Expensive",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.8,
+              "ratingColor": "73CF42",
+              "ratingSignals": 233,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/jack-the-horse-tavern/4471bf9af964a5209c331fe3/menu",
+                "mobileUrl": "https://foursquare.com/v/4471bf9af964a5209c331fe3/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until 5:30 PM",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "518c146e498e1fbf025c807b",
+                        "createdAt": 1368134766,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/48623284_fqbPs5xy6jImyJu6U2w_xkkR7lilKCVfZEE8qSC66WU.jpg",
+                        "width": 1440,
+                        "height": 1920,
+                        "user": {
+                          "id": "48623284",
+                          "firstName": "Steven",
+                          "lastName": "Carroll",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/30EEWRXPJ2UFBHLA.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "venuePage": { "id": "94497137" },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "518c146e498e1fbf025c807b",
+                    "createdAt": 1368134766,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/48623284_fqbPs5xy6jImyJu6U2w_xkkR7lilKCVfZEE8qSC66WU.jpg",
+                    "width": 1440,
+                    "height": 1920,
+                    "user": {
+                      "id": "48623284",
+                      "firstName": "Steven",
+                      "lastName": "Carroll",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs3.4sqi.net/img/user/",
+                        "suffix": "/30EEWRXPJ2UFBHLA.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4d751af4c54e8eec17115735",
+                "createdAt": 1299520244,
+                "text": "PHOTO: Did you know the house from \"Moonstruck\" is right down the block at 19 Cranberry?  Here's Cher and Nicholas Cage on the set in 1987, at the link!",
+                "type": "user",
+                "url": "http://nydn.us/ePXFGq",
+                "canonicalUrl": "https://foursquare.com/item/4d751af4c54e8eec17115735",
+                "likes": {
+                  "count": 25,
+                  "groups": [ ],
+                  "summary": "25 likes"
+                },
+                "logView": true,
+                "agreeCount": 6,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Apr 20, 2013",
+                "todo": { "count": 3 },
+                "user": {
+                  "id": "1241858",
+                  "firstName": "The New York Daily News",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs0.4sqi.net/img/user/",
+                    "suffix": "/3EV01452MGIUWBAQ.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-4471bf9af964a5209c331fe3-11"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "538d22cb498e86974754d6da",
+              "name": "Shake Shack",
+              "contact": {
+                "phone": "+13474352676",
+                "formattedPhone": "+1 347-435-2676",
+                "twitter": "shakeshack",
+                "facebook": "124653650181",
+                "facebookUsername": "shakeshack",
+                "facebookName": "Shake Shack - Official Page"
+              },
+              "location": {
+                "address": "1 Old Fulton St",
+                "crossStreet": "Water Street",
+                "lat": 40.70296752200746,
+                "lng": -73.99411073015166,
+                "distance": 596,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "1 Old Fulton St (Water Street)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16c941735",
+                  "name": "Burger Joint",
+                  "pluralName": "Burger Joints",
+                  "shortName": "Burgers",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 7448,
+                "usersCount": 4791,
+                "tipCount": 117
+              },
+              "url": "http://www.shakeshack.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 9.2,
+              "ratingColor": "00B551",
+              "ratingSignals": 908,
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until 11:00 AM",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "53e5797f498e68288ebca2e1",
+                        "createdAt": 1407547775,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/38612697_dZ14aWAS8BP8lbLOwOF58Kz9kJ5_rwdBkZVF6dKo9Co.jpg",
+                        "width": 960,
+                        "height": 720,
+                        "user": {
+                          "id": "38612697",
+                          "firstName": "Ekaterina",
+                          "lastName": "Sokolov (Redzhepova)",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/38612697-N0DREINP3KY5YS05.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "53e5797f498e68288ebca2e1",
+                    "createdAt": 1407547775,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/38612697_dZ14aWAS8BP8lbLOwOF58Kz9kJ5_rwdBkZVF6dKo9Co.jpg",
+                    "width": 960,
+                    "height": 720,
+                    "user": {
+                      "id": "38612697",
+                      "firstName": "Ekaterina",
+                      "lastName": "Sokolov (Redzhepova)",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs3.4sqi.net/img/user/",
+                        "suffix": "/38612697-N0DREINP3KY5YS05.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "5461985c498e56f9a7604145",
+                "createdAt": 1415682140,
+                "text": "Bring your tray and eat out front or get your food to go and eat in Brooklyn Bridge Park. Beautiful views of Manhattan complete with your Shack burger.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5461985c498e56f9a7604145",
+                "likes": {
+                  "count": 5,
+                  "groups": [ ],
+                  "summary": "5 likes"
+                },
+                "logView": true,
+                "agreeCount": 5,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Aug 14, 2015",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "13291086",
+                  "firstName": "Camille",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/FW0JZNTNEEKESDTH.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-538d22cb498e86974754d6da-12"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4e2b293ee4cd3bc166926781",
+              "name": "Brooklyn Bridge Park - Pier 5",
+              "contact": {
+                "twitter": "nycparks",
+                "facebook": "104475634308",
+                "facebookUsername": "BartowPell",
+                "facebookName": "Bartow-Pell Mansion Museum"
+              },
+              "location": {
+                "address": "Joralemon St.",
+                "lat": 40.694453277853036,
+                "lng": -74.0005667869521,
+                "distance": 619,
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Joralemon St.", "Brooklyn, NY", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d163941735",
+                  "name": "Park",
+                  "pluralName": "Parks",
+                  "shortName": "Park",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 7395,
+                "usersCount": 4844,
+                "tipCount": 24
+              },
+              "url": "http://nyc.gov/parks",
+              "rating": 9.5,
+              "ratingColor": "00B551",
+              "ratingSignals": 273,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "51bcdc41498e400221e88cdc",
+                        "createdAt": 1371331649,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/1877147_zTuamwu5Fc2NXvuNCpJnw05Jn1ie5AEiOYGxT0-4Afg.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "1877147",
+                          "firstName": "ryo",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/1877147-GXXSFPHQYHCFEWL4.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "51bcdc41498e400221e88cdc",
+                    "createdAt": 1371331649,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/1877147_zTuamwu5Fc2NXvuNCpJnw05Jn1ie5AEiOYGxT0-4Afg.jpg",
+                    "width": 612,
+                    "height": 612,
+                    "user": {
+                      "id": "1877147",
+                      "firstName": "ryo",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs2.4sqi.net/img/user/",
+                        "suffix": "/1877147-GXXSFPHQYHCFEWL4.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "517401b6e4b0bbda2b49914d",
+                "createdAt": 1366557110,
+                "text": "Great areas of shade in picnic peninsula thanks to some sail/tarps.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/517401b6e4b0bbda2b49914d",
+                "photo": {
+                  "id": "517401b7e4b076a9c182e7c9",
+                  "createdAt": 1366557111,
+                  "source": {
+                    "name": "4th & Mayor",
+                    "url": "http://www.4thandmayor.com/"
+                  },
+                  "prefix": "https://irs2.4sqi.net/img/general/",
+                  "suffix": "/131217_9lEahGdbOn70IGXnyG63C1u2LerYcMpM50KjJFilVAE",
+                  "width": 720,
+                  "height": 540,
+                  "visibility": "public"
+                },
+                "photourl": "https://irs2.4sqi.net/img/general/original/131217_9lEahGdbOn70IGXnyG63C1u2LerYcMpM50KjJFilVAE",
+                "likes": {
+                  "count": 4,
+                  "groups": [ ],
+                  "summary": "4 likes"
+                },
+                "logView": true,
+                "agreeCount": 4,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Oct 6, 2013",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "131217",
+                  "firstName": "Anthony",
+                  "lastName": "Rallo",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://irs3.4sqi.net/img/user/",
+                    "suffix": "/0P0RUHT5XBXAHHUT.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4e2b293ee4cd3bc166926781-13"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4abd01bbf964a5200a8820e3",
+              "name": "Brooklyn Ice Cream Factory",
+              "contact": {
+                "phone": "+17182463963",
+                "formattedPhone": "+1 718-246-3963"
+              },
+              "location": {
+                "address": "1 Water St",
+                "crossStreet": "at Old Fulton St",
+                "lat": 40.70318386323018,
+                "lng": -73.99470627307892,
+                "distance": 570,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "1 Water St (at Old Fulton St)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1c9941735",
+                  "name": "Ice Cream Shop",
+                  "pluralName": "Ice Cream Shops",
+                  "shortName": "Ice Cream",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 14303,
+                "usersCount": 11951,
+                "tipCount": 150
+              },
+              "url": "http://www.brooklynicecreamfactory.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.8,
+              "ratingColor": "73CF42",
+              "ratingSignals": 808,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/brooklyn-ice-cream-factory/4abd01bbf964a5200a8820e3/menu",
+                "mobileUrl": "https://foursquare.com/v/4abd01bbf964a5200a8820e3/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until Noon",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "4ffb42b5e4b04f8b129fc1c4",
+                        "createdAt": 1341866677,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/YHDiM0MnvzpPDjsOWXjczuUFVnj418jLilD2Zy5Jt9c.jpg",
+                        "width": 720,
+                        "height": 537,
+                        "user": {
+                          "id": "1066238",
+                          "firstName": "Karin",
+                          "lastName": "Rendelman",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/1066238-R3IXKHUP2KYEOQNB.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "venuePage": { "id": "56784839" },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "4ffb42b5e4b04f8b129fc1c4",
+                    "createdAt": 1341866677,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/YHDiM0MnvzpPDjsOWXjczuUFVnj418jLilD2Zy5Jt9c.jpg",
+                    "width": 720,
+                    "height": 537,
+                    "user": {
+                      "id": "1066238",
+                      "firstName": "Karin",
+                      "lastName": "Rendelman",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs1.4sqi.net/img/user/",
+                        "suffix": "/1066238-R3IXKHUP2KYEOQNB.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4e3c1096091a0fc67ea2e08a",
+                "createdAt": 1312559254,
+                "text": "Michael Psilakis cools off at the Brooklyn Ice Cream Factory in where they serve up a scoop of Butter Pecan Ice Cream on Food Network's The Best Thing I Ever Ate. Find more tips at FN Local.",
+                "type": "user",
+                "url": "http://www.foodnetwork.com/local/index.html",
+                "canonicalUrl": "https://foursquare.com/item/4e3c1096091a0fc67ea2e08a",
+                "likes": {
+                  "count": 24,
+                  "groups": [ ],
+                  "summary": "24 likes"
+                },
+                "logView": true,
+                "agreeCount": 24,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Feb 7, 2015",
+                "todo": { "count": 23 },
+                "user": {
+                  "id": "4362480",
+                  "firstName": "Food Network",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/CWXVNR3ZCNNEZ45T.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-4abd01bbf964a5200a8820e3-14"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c34a57da0ced13a9379186e",
+              "name": "Under The Brooklyn Bridge",
+              "contact": {
+                "twitter": "nyc_dot",
+                "facebook": "166279802886",
+                "facebookUsername": "NYCDOT",
+                "facebookName": "NYC DOT"
+              },
+              "location": {
+                "address": "Brooklyn Bridge",
+                "crossStreet": "FDR Dr",
+                "lat": 40.70317373753798,
+                "lng": -73.9943976706276,
+                "distance": 590,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Brooklyn Bridge (FDR Dr)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d165941735",
+                  "name": "Scenic Lookout",
+                  "pluralName": "Scenic Lookouts",
+                  "shortName": "Scenic Lookout",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 7921,
+                "usersCount": 6137,
+                "tipCount": 35
+              },
+              "url": "http://www.nyc.gov/dot",
+              "rating": 9.0,
+              "ratingColor": "00B551",
+              "ratingSignals": 142,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "51a3d001498e8fe1abbebe5e",
+                        "createdAt": 1369690113,
+                        "prefix": "https://irs0.4sqi.net/img/general/",
+                        "suffix": "/38345747_d8ixZOQJS8ROfMFyzd3j97HwgnQE2FYUebdW9OHBBnw.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "38345747",
+                          "firstName": "Beth",
+                          "lastName": "Wernet",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/38345747-1GTE1TT2AVUA4P2F.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "51a3d001498e8fe1abbebe5e",
+                    "createdAt": 1369690113,
+                    "prefix": "https://irs0.4sqi.net/img/general/",
+                    "suffix": "/38345747_d8ixZOQJS8ROfMFyzd3j97HwgnQE2FYUebdW9OHBBnw.jpg",
+                    "width": 612,
+                    "height": 612,
+                    "user": {
+                      "id": "38345747",
+                      "firstName": "Beth",
+                      "lastName": "Wernet",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs2.4sqi.net/img/user/",
+                        "suffix": "/38345747-1GTE1TT2AVUA4P2F.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4d59f3a956f2b60ca1da7e2f",
+                "createdAt": 1297740713,
+                "text": "♫\"You better be careful when you cross that bridge.\"♩-'Lil KIM",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4d59f3a956f2b60ca1da7e2f",
+                "likes": {
+                  "count": 11,
+                  "groups": [ ],
+                  "summary": "11 likes"
+                },
+                "logView": true,
+                "agreeCount": 5,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Dec 24, 2013",
+                "todo": { "count": 1 },
+                "user": {
+                  "id": "6776590",
+                  "firstName": "Jeree",
+                  "lastName": "Anderson",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs3.4sqi.net/img/user/",
+                    "suffix": "/6776590-WV0YHZGFI4R2RNMB.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4c34a57da0ced13a9379186e-15"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "50e35a0ae4b0437c4ed45ae7",
+              "name": "Pier 5 Soccer Fields",
+              "contact": { },
+              "location": {
+                "address": "Brooklyn Bridge Park",
+                "lat": 40.69448828350183,
+                "lng": -74.00111769372403,
+                "distance": 620,
+                "postalCode": "10004",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Brooklyn Bridge Park", "Brooklyn, NY 10004", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4cce455aebf7b749d5e191f5",
+                  "name": "Soccer Field",
+                  "pluralName": "Soccer Fields",
+                  "shortName": "Soccer Field",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 3006,
+                "usersCount": 916,
+                "tipCount": 15
+              },
+              "rating": 9.2,
+              "ratingColor": "00B551",
+              "ratingSignals": 90,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "51866f54498ef609121bea0d",
+                        "createdAt": 1367764820,
+                        "prefix": "https://irs0.4sqi.net/img/general/",
+                        "suffix": "/5215632_7ajzsnBBb96I46CidB42oHkjyvnXJ0h_tyhME7e6Bio.jpg",
+                        "width": 720,
+                        "height": 720,
+                        "user": {
+                          "id": "5215632",
+                          "firstName": "sonia",
+                          "lastName": "misak",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/Y2KWJD2FFDA1NB2Q.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "51866f54498ef609121bea0d",
+                    "createdAt": 1367764820,
+                    "prefix": "https://irs0.4sqi.net/img/general/",
+                    "suffix": "/5215632_7ajzsnBBb96I46CidB42oHkjyvnXJ0h_tyhME7e6Bio.jpg",
+                    "width": 720,
+                    "height": 720,
+                    "user": {
+                      "id": "5215632",
+                      "firstName": "sonia",
+                      "lastName": "misak",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs1.4sqi.net/img/user/",
+                        "suffix": "/Y2KWJD2FFDA1NB2Q.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "5207d5cc11d21900e6667ba8",
+                "createdAt": 1376245196,
+                "text": "Great view great soccer great people",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5207d5cc11d21900e6667ba8",
+                "likes": {
+                  "count": 5,
+                  "groups": [ ],
+                  "summary": "5 likes"
+                },
+                "logView": true,
+                "agreeCount": 5,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Apr 26, 2015",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "32960873",
+                  "firstName": "Beth",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs3.4sqi.net/img/user/",
+                    "suffix": "/SPAGZOX2YV1WHAEM.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-50e35a0ae4b0437c4ed45ae7-16"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "517abbd7e4b0de63518cb59e",
+              "name": "Ample Hills Creamery",
+              "contact": {
+                "phone": "+17186436961",
+                "formattedPhone": "+1 718-643-6961",
+                "twitter": "amplehills"
+              },
+              "location": {
+                "address": "334 Furman St Ste 5",
+                "crossStreet": "at Joramelon St",
+                "lat": 40.69450863012195,
+                "lng": -74.00049218487156,
+                "distance": 612,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "334 Furman St Ste 5 (at Joramelon St)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1c9941735",
+                  "name": "Ice Cream Shop",
+                  "pluralName": "Ice Cream Shops",
+                  "shortName": "Ice Cream",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1417,
+                "usersCount": 1137,
+                "tipCount": 26
+              },
+              "url": "http://www.amplehills.com",
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 9.0,
+              "ratingColor": "00B551",
+              "ratingSignals": 128,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "http://amplehills.com/flavors.html",
+                "mobileUrl": "http://amplehills.com/flavors.html",
+                "externalUrl": "http://amplehills.com/flavors.html"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until 9:00 AM",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "5235f20f11d23f85acfb1e50",
+                        "createdAt": 1379267087,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/12320_Mg5UBDlPsBcLn6iRZstwEw92OuoaFz0VNZPP1NAI0V4.jpg",
+                        "width": 960,
+                        "height": 720,
+                        "user": {
+                          "id": "12320",
+                          "firstName": "Roger",
+                          "lastName": "Ehrenberg",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/12320-Q0BASREQLQEXQEOA.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "venuePage": { "id": "56784859" },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "5235f20f11d23f85acfb1e50",
+                    "createdAt": 1379267087,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/12320_Mg5UBDlPsBcLn6iRZstwEw92OuoaFz0VNZPP1NAI0V4.jpg",
+                    "width": 960,
+                    "height": 720,
+                    "user": {
+                      "id": "12320",
+                      "firstName": "Roger",
+                      "lastName": "Ehrenberg",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs3.4sqi.net/img/user/",
+                        "suffix": "/12320-Q0BASREQLQEXQEOA.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "51bcf70b498ed389a6a7f9a6",
+                "createdAt": 1371338507,
+                "text": "Send a child ahead to wait in [the always long] line. If they really want an ice cream, they'll do it.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51bcf70b498ed389a6a7f9a6",
+                "likes": {
+                  "count": 4,
+                  "groups": [ ],
+                  "summary": "4 likes"
+                },
+                "logView": true,
+                "agreeCount": 4,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted May 23, 2015",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "3003",
+                  "firstName": "Ben",
+                  "lastName": "Malbon",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/3003_1238973057.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-517abbd7e4b0de63518cb59e-17"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "50ca6337e4b04e1f3135689c",
+              "name": "Juliana's Pizza",
+              "contact": {
+                "phone": "+17185966700",
+                "formattedPhone": "+1 718-596-6700",
+                "twitter": "julianaspizza",
+                "facebook": "123787924449529",
+                "facebookUsername": "julianaspizza",
+                "facebookName": "Juliana's Pizza"
+              },
+              "location": {
+                "address": "19 Old Fulton St",
+                "lat": 40.70270805118292,
+                "lng": -73.99345636367798,
+                "distance": 629,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "19 Old Fulton St", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1ca941735",
+                  "name": "Pizza Place",
+                  "pluralName": "Pizza Places",
+                  "shortName": "Pizza",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 7556,
+                "usersCount": 5747,
+                "tipCount": 201
+              },
+              "url": "http://julianaspizza.com",
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 9.3,
+              "ratingColor": "00B551",
+              "ratingSignals": 805,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "http://julianaspizza.com/menu/",
+                "mobileUrl": "http://julianaspizza.com/menu/",
+                "externalUrl": "http://julianaspizza.com/menu/"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until 11:30 AM",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "50e865d6e4b0ce74775abd29",
+                        "createdAt": 1357407702,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/39785363_h9B2rf9Za0QE_X9BbHQph5SHMfKAxKS3AVLvDQJ3L00.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "39785363",
+                          "firstName": "Danielle",
+                          "lastName": "Croxton",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/BIOXUBEVDGVRGGNR.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "50e865d6e4b0ce74775abd29",
+                    "createdAt": 1357407702,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/39785363_h9B2rf9Za0QE_X9BbHQph5SHMfKAxKS3AVLvDQJ3L00.jpg",
+                    "width": 612,
+                    "height": 612,
+                    "user": {
+                      "id": "39785363",
+                      "firstName": "Danielle",
+                      "lastName": "Croxton",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs0.4sqi.net/img/user/",
+                        "suffix": "/BIOXUBEVDGVRGGNR.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "5115df2be4b059beb0b42125",
+                "createdAt": 1360387883,
+                "text": "Outstanding. And the smalls are hardly small: 16 inches. (A large is 18\")",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5115df2be4b059beb0b42125",
+                "likes": {
+                  "count": 9,
+                  "groups": [ ],
+                  "summary": "9 likes"
+                },
+                "logView": true,
+                "agreeCount": 9,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Oct 20, 2015",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "47819",
+                  "firstName": "Whitney",
+                  "lastName": "Snyder",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://irs3.4sqi.net/img/user/",
+                    "suffix": "/WFEA5M2SH5VSEOGA.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-50ca6337e4b04e1f3135689c-18"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "3fd66200f964a520efe81ee3",
+              "name": "The River Café",
+              "contact": {
+                "phone": "+17185225200",
+                "formattedPhone": "+1 718-522-5200",
+                "twitter": "therivercafe"
+              },
+              "location": {
+                "address": "1 Water St",
+                "crossStreet": "at Brooklyn Bridge",
+                "lat": 40.7037369396286,
+                "lng": -73.9947760105133,
+                "distance": 606,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "1 Water St (at Brooklyn Bridge)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d14e941735",
+                  "name": "American Restaurant",
+                  "pluralName": "American Restaurants",
+                  "shortName": "American",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 4434,
+                "usersCount": 3797,
+                "tipCount": 111
+              },
+              "url": "http://www.rivercafe.com",
+              "price": {
+                "tier": 4,
+                "message": "Very Expensive",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.9,
+              "ratingColor": "73CF42",
+              "ratingSignals": 336,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/the-river-caf%C3%A9/3fd66200f964a520efe81ee3/menu",
+                "mobileUrl": "https://foursquare.com/v/3fd66200f964a520efe81ee3/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until 11:30 AM",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "5175c63ee4b0e18a7240094b",
+                        "createdAt": 1366672958,
+                        "prefix": "https://irs0.4sqi.net/img/general/",
+                        "suffix": "/11859400_9Bh1mtUYtb0kEOcUi17ehz0cbPWnQ62X9MGDSpxIqNE.jpg",
+                        "width": 1920,
+                        "height": 1224,
+                        "user": {
+                          "id": "11859400",
+                          "firstName": "Ben",
+                          "lastName": "Ong",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/11859400-T3APYHLZH0GBEDRJ.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "venuePage": { "id": "35406086" },
+              "storeId": "",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "5175c63ee4b0e18a7240094b",
+                    "createdAt": 1366672958,
+                    "prefix": "https://irs0.4sqi.net/img/general/",
+                    "suffix": "/11859400_9Bh1mtUYtb0kEOcUi17ehz0cbPWnQ62X9MGDSpxIqNE.jpg",
+                    "width": 1920,
+                    "height": 1224,
+                    "user": {
+                      "id": "11859400",
+                      "firstName": "Ben",
+                      "lastName": "Ong",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs1.4sqi.net/img/user/",
+                        "suffix": "/11859400-T3APYHLZH0GBEDRJ.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4e4ae1ee81dc55fe7056fbc2",
+                "createdAt": 1313530350,
+                "text": "Enjoy the gorgeous views of Manhattan and solid American cuisine but avoid the special occasion crowds by having lunch at the River Café.  - Inspector",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e4ae1ee81dc55fe7056fbc2",
+                "likes": {
+                  "count": 20,
+                  "groups": [ ],
+                  "summary": "20 likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Jun 10, 2014",
+                "todo": { "count": 6 },
+                "user": {
+                  "id": "3358242",
+                  "firstName": "Michelin Travel & Lifestyle",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs3.4sqi.net/img/user/",
+                    "suffix": "/VK0PPDE3V1HU20D5.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-3fd66200f964a520efe81ee3-19"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4de26e06814df7ebdc14af8b",
+              "name": "Vineapple Cafe",
+              "contact": {
+                "phone": "+13477991701",
+                "formattedPhone": "+1 347-799-1701",
+                "twitter": "VineappleCafe"
+              },
+              "location": {
+                "address": "71 Pineapple St",
+                "crossStreet": "btwn Henry & Hicks St",
+                "lat": 40.69834998317835,
+                "lng": -73.99289409776352,
+                "distance": 627,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "71 Pineapple St (btwn Henry & Hicks St)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16d941735",
+                  "name": "Café",
+                  "pluralName": "Cafés",
+                  "shortName": "Café",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 6582,
+                "usersCount": 2194,
+                "tipCount": 125
+              },
+              "url": "http://vineapple.com",
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 9.0,
+              "ratingColor": "00B551",
+              "ratingSignals": 493,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/vineapple-cafe/4de26e06814df7ebdc14af8b/menu",
+                "mobileUrl": "https://foursquare.com/v/4de26e06814df7ebdc14af8b/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until 9:00 AM",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "5155a98de4b04f212ecf081a",
+                        "createdAt": 1364568461,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/28190869_UmbMW9cjX_YEZlOLWjBkdx7BpeScdlvOKw8Dg_LLrk4.jpg",
+                        "width": 960,
+                        "height": 720,
+                        "user": {
+                          "id": "28190869",
+                          "firstName": "Chantal",
+                          "lastName": "Bonnet",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/28190869-3QTUGQS5YJBENJAK.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "venuePage": { "id": "94802691" },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "5155a98de4b04f212ecf081a",
+                    "createdAt": 1364568461,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/28190869_UmbMW9cjX_YEZlOLWjBkdx7BpeScdlvOKw8Dg_LLrk4.jpg",
+                    "width": 960,
+                    "height": 720,
+                    "user": {
+                      "id": "28190869",
+                      "firstName": "Chantal",
+                      "lastName": "Bonnet",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs0.4sqi.net/img/user/",
+                        "suffix": "/28190869-3QTUGQS5YJBENJAK.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "5022a28ae4b007e779b1ba24",
+                "createdAt": 1344447114,
+                "text": "Favorite freelancer spot. Great coffee, good tunes, strong wifi, lovely staff. Stay all day! They serve beer & wine, too.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5022a28ae4b007e779b1ba24",
+                "likes": {
+                  "count": 15,
+                  "groups": [ ],
+                  "summary": "15 likes"
+                },
+                "logView": true,
+                "agreeCount": 15,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Nov 17, 2015",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "1991265",
+                  "firstName": "Lauren",
+                  "lastName": "Farmer",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/1991265-2PICBV24S3OOLLNJ.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4de26e06814df7ebdc14af8b-20"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b6b6ad0f964a52066072ce3",
+              "name": "Sushi Gallery",
+              "contact": { },
+              "location": {
+                "address": "78 Clark St",
+                "crossStreet": "at Henry St.",
+                "lat": 40.697673182111075,
+                "lng": -73.99341344833374,
+                "distance": 613,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "78 Clark St (at Henry St.)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1d2941735",
+                  "name": "Sushi Restaurant",
+                  "pluralName": "Sushi Restaurants",
+                  "shortName": "Sushi",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 499,
+                "usersCount": 277,
+                "tipCount": 10
+              },
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 8.9,
+              "ratingColor": "73CF42",
+              "ratingSignals": 29,
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "5154c83de4b0ebc855f95bfe",
+                        "createdAt": 1364510781,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/50216224_Lfel_XnMz55PWSBbWmc1ASWkSvblMBP7eWfU7a4hj_g.jpg",
+                        "width": 959,
+                        "height": 717,
+                        "user": {
+                          "id": "50216224",
+                          "firstName": "Susie",
+                          "lastName": "Shin",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/3P2HXE0NMTVX44EJ.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "5154c83de4b0ebc855f95bfe",
+                    "createdAt": 1364510781,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/50216224_Lfel_XnMz55PWSBbWmc1ASWkSvblMBP7eWfU7a4hj_g.jpg",
+                    "width": 959,
+                    "height": 717,
+                    "user": {
+                      "id": "50216224",
+                      "firstName": "Susie",
+                      "lastName": "Shin",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs1.4sqi.net/img/user/",
+                        "suffix": "/3P2HXE0NMTVX44EJ.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "50d66a7ee4b0db4f34dd5355",
+                "createdAt": 1356229246,
+                "text": "Don't let the subway station locale fool you...good sushi by a cute husband wife team. Try the sashimi version of bi bim bop.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/50d66a7ee4b0db4f34dd5355",
+                "likes": {
+                  "count": 4,
+                  "groups": [ ],
+                  "summary": "4 likes"
+                },
+                "logView": true,
+                "agreeCount": 4,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Aug 10, 2014",
+                "todo": { "count": 1 },
+                "user": {
+                  "id": "2183",
+                  "firstName": "leland",
+                  "lastName": "rechis",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/2183_1236999844.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4b6b6ad0f964a52066072ce3-21"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "5012043564a4944f5c47738a",
+              "name": "Dellarocco's",
+              "contact": {
+                "phone": "+17188581010",
+                "formattedPhone": "+1 718-858-1010",
+                "twitter": "dellaroccos",
+                "facebook": "125083840967069",
+                "facebookUsername": "dellaroccos",
+                "facebookName": "Dellarocco's"
+              },
+              "location": {
+                "address": "214 Hicks St",
+                "crossStreet": "btwn Montague & Remsen St.",
+                "lat": 40.69498884760204,
+                "lng": -73.99607419967651,
+                "distance": 648,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "214 Hicks St (btwn Montague & Remsen St.)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1ca941735",
+                  "name": "Pizza Place",
+                  "pluralName": "Pizza Places",
+                  "shortName": "Pizza",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1450,
+                "usersCount": 974,
+                "tipCount": 33
+              },
+              "url": "http://www.dellaroccospizza.com",
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 9.0,
+              "ratingColor": "00B551",
+              "ratingSignals": 140,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/dellaroccos/5012043564a4944f5c47738a/menu",
+                "mobileUrl": "https://foursquare.com/v/5012043564a4944f5c47738a/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until Noon",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "501ef975e4b0825080f5aa86",
+                        "createdAt": 1344207221,
+                        "prefix": "https://irs0.4sqi.net/img/general/",
+                        "suffix": "/cuwNfDuY4yx22dgXcV-H6BGadiL9aUURI64oqcdKjeQ.jpg",
+                        "width": 720,
+                        "height": 537,
+                        "user": {
+                          "id": "17744256",
+                          "firstName": "Blaec",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/CKW2SUADPAIJKZT0.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "venuePage": { "id": "35041617" },
+              "storeId": "",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "501ef975e4b0825080f5aa86",
+                    "createdAt": 1344207221,
+                    "prefix": "https://irs0.4sqi.net/img/general/",
+                    "suffix": "/cuwNfDuY4yx22dgXcV-H6BGadiL9aUURI64oqcdKjeQ.jpg",
+                    "width": 720,
+                    "height": 537,
+                    "user": {
+                      "id": "17744256",
+                      "firstName": "Blaec",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs0.4sqi.net/img/user/",
+                        "suffix": "/CKW2SUADPAIJKZT0.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "509ece5ae4b083e9a5840356",
+                "createdAt": 1352584794,
+                "text": "Best pizza in Brooklyn Heights",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/509ece5ae4b083e9a5840356",
+                "likes": {
+                  "count": 4,
+                  "groups": [ ],
+                  "summary": "4 likes"
+                },
+                "logView": true,
+                "agreeCount": 4,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Jan 18, 2014",
+                "todo": { "count": 1 },
+                "user": {
+                  "id": "1070559",
+                  "firstName": "Andres",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://irs0.4sqi.net/img/user/",
+                    "suffix": "/CFAQA5B2AN0UCULF.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-5012043564a4944f5c47738a-22"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c2f67a3213c2d7fddc0305d",
+              "name": "Brooklyn Bridge Park Boathouse",
+              "contact": {
+                "twitter": "nycparks",
+                "facebook": "104475634308",
+                "facebookUsername": "BartowPell",
+                "facebookName": "Bartow-Pell Mansion Museum"
+              },
+              "location": {
+                "address": "Furman St. & Doughty St",
+                "crossStreet": "Doughty St",
+                "lat": 40.70313088330149,
+                "lng": -73.99476495381016,
+                "distance": 562,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "Furman St. & Doughty St (Doughty St)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d163941735",
+                  "name": "Park",
+                  "pluralName": "Parks",
+                  "shortName": "Park",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1298,
+                "usersCount": 1065,
+                "tipCount": 3
+              },
+              "url": "http://nyc.gov/parks",
+              "rating": 8.5,
+              "ratingColor": "73CF42",
+              "ratingSignals": 29,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "52192b5611d2d06cd7b0d0e9",
+                        "createdAt": 1377381206,
+                        "prefix": "https://irs0.4sqi.net/img/general/",
+                        "suffix": "/15864__VtpQ2z7kM91GEZJp-_JVTykVMR7HYwQqvCNi7iXyEs.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "15864",
+                          "firstName": "Charlie",
+                          "lastName": "O'Donnell",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/1I3DFRXEXXYHQJ2O.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "52192b5611d2d06cd7b0d0e9",
+                    "createdAt": 1377381206,
+                    "prefix": "https://irs0.4sqi.net/img/general/",
+                    "suffix": "/15864__VtpQ2z7kM91GEZJp-_JVTykVMR7HYwQqvCNi7iXyEs.jpg",
+                    "width": 612,
+                    "height": 612,
+                    "user": {
+                      "id": "15864",
+                      "firstName": "Charlie",
+                      "lastName": "O'Donnell",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs2.4sqi.net/img/user/",
+                        "suffix": "/1I3DFRXEXXYHQJ2O.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4e5c60f918a8a75fa26f45e6",
+                "createdAt": 1314676985,
+                "text": "Show up early (especially if the weather is nice)! The wait is about two hours by 2pm.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e5c60f918a8a75fa26f45e6",
+                "likes": {
+                  "count": 2,
+                  "groups": [ ],
+                  "summary": "2 likes"
+                },
+                "logView": true,
+                "agreeCount": 2,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Jan 12, 2013",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "34686",
+                  "firstName": "Andrew",
+                  "lastName": "Shults",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://irs2.4sqi.net/img/user/",
+                    "suffix": "/QUOS0BRT4UJ2RKWD.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4c2f67a3213c2d7fddc0305d-23"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4eef9dfe6c25c7f9d47c80b4",
+              "name": "Pier 15",
+              "contact": { },
+              "location": {
+                "address": "South Street",
+                "crossStreet": "at Fletcher Street",
+                "lat": 40.7047418983676,
+                "lng": -74.0034073830095,
+                "distance": 601,
+                "cc": "US",
+                "city": "New York",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "South Street (at Fletcher Street)", "New York, NY", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4e74f6cabd41c4836eac4c31",
+                  "name": "Pier",
+                  "pluralName": "Piers",
+                  "shortName": "Piers",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/ferry_pier_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 3849,
+                "usersCount": 2481,
+                "tipCount": 41
+              },
+              "rating": 8.7,
+              "ratingColor": "73CF42",
+              "ratingSignals": 177,
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "4ff0db74e4b07928d99f238f",
+                        "createdAt": 1341184884,
+                        "prefix": "https://irs2.4sqi.net/img/general/",
+                        "suffix": "/oFKbB7dRdz1QoJkpVR6GxMJorrAI2RlmKsOX7F4mzbo.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "681",
+                          "firstName": "rosie",
+                          "lastName": "siman",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/KZNUNVVTGTE4QH45.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "4ff0db74e4b07928d99f238f",
+                    "createdAt": 1341184884,
+                    "prefix": "https://irs2.4sqi.net/img/general/",
+                    "suffix": "/oFKbB7dRdz1QoJkpVR6GxMJorrAI2RlmKsOX7F4mzbo.jpg",
+                    "width": 612,
+                    "height": 612,
+                    "user": {
+                      "id": "681",
+                      "firstName": "rosie",
+                      "lastName": "siman",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs1.4sqi.net/img/user/",
+                        "suffix": "/KZNUNVVTGTE4QH45.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "51a3b919498ea8972fc093de",
+                "createdAt": 1369684249,
+                "text": "Come here in 2012, when it's still undiscovered and not crowded.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51a3b919498ea8972fc093de",
+                "likes": {
+                  "count": 10,
+                  "groups": [ ],
+                  "summary": "10 likes"
+                },
+                "logView": true,
+                "agreeCount": 10,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Sep 10, 2014",
+                "todo": { "count": 1 },
+                "user": {
+                  "id": "7373",
+                  "firstName": "Anil",
+                  "lastName": "Dash",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/XRYEDYDHXEVAMFGK.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4eef9dfe6c25c7f9d47c80b4-24"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4a9ff488f964a520b73d20e3",
+              "name": "Tutt Cafe",
+              "contact": {
+                "phone": "+17187227777",
+                "formattedPhone": "+1 718-722-7777"
+              },
+              "location": {
+                "address": "47 Hicks St",
+                "crossStreet": "at Middagh St",
+                "lat": 40.70024643,
+                "lng": -73.993487,
+                "distance": 550,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "47 Hicks St (at Middagh St)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d115941735",
+                  "name": "Middle Eastern Restaurant",
+                  "pluralName": "Middle Eastern Restaurants",
+                  "shortName": "Middle Eastern",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1158,
+                "usersCount": 670,
+                "tipCount": 26
+              },
+              "url": "http://tuttcafe.com/menu.html",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 8.4,
+              "ratingColor": "73CF42",
+              "ratingSignals": 78,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/tutt-cafe/4a9ff488f964a520b73d20e3/menu",
+                "mobileUrl": "https://foursquare.com/v/4a9ff488f964a520b73d20e3/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until 11:00 AM",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "504ff0a6e4b0dd27da0258d9",
+                        "createdAt": 1347416230,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/zJt0DWUsxD_m3Uvm0j8LKOQ-w5AtSJkuE9zD9KnnaTY.jpg",
+                        "width": 3264,
+                        "height": 2448,
+                        "user": {
+                          "id": "32956205",
+                          "firstName": "Stephen",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/RMC12UJJ0JPS4W3G.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "504ff0a6e4b0dd27da0258d9",
+                    "createdAt": 1347416230,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/zJt0DWUsxD_m3Uvm0j8LKOQ-w5AtSJkuE9zD9KnnaTY.jpg",
+                    "width": 3264,
+                    "height": 2448,
+                    "user": {
+                      "id": "32956205",
+                      "firstName": "Stephen",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs3.4sqi.net/img/user/",
+                        "suffix": "/RMC12UJJ0JPS4W3G.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "522d194d498e163a1f6822e1",
+                "createdAt": 1378687309,
+                "text": "Get the $10 salad platter where you can choose 5 appetizers. Loved the iced mint tea and outdoor seating. Great service!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/522d194d498e163a1f6822e1",
+                "likes": {
+                  "count": 3,
+                  "groups": [ ],
+                  "summary": "3 likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Jan 17, 2015",
+                "todo": { "count": 1 },
+                "user": {
+                  "id": "29406723",
+                  "firstName": "Jen",
+                  "lastName": "Digney",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs2.4sqi.net/img/user/",
+                    "suffix": "/E3UDEK53CPBEEOR2.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4a9ff488f964a520b73d20e3-25"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4f69f2b76d86f87117bb13ab",
+              "name": "Gran Eléctrica",
+              "contact": {
+                "phone": "+17188522700",
+                "formattedPhone": "+1 718-852-2700",
+                "twitter": "granelectrica"
+              },
+              "location": {
+                "address": "5 Front St",
+                "crossStreet": "at Old Fulton St",
+                "lat": 40.702634849027795,
+                "lng": -73.99300575256348,
+                "distance": 659,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "5 Front St (at Old Fulton St)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1c1941735",
+                  "name": "Mexican Restaurant",
+                  "pluralName": "Mexican Restaurants",
+                  "shortName": "Mexican",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 8400,
+                "usersCount": 5278,
+                "tipCount": 160
+              },
+              "url": "http://www.granelectrica.com/",
+              "price": {
+                "tier": 3,
+                "message": "Expensive",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 9.0,
+              "ratingColor": "00B551",
+              "ratingSignals": 577,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/gran-el%C3%A9ctrica/4f69f2b76d86f87117bb13ab/menu",
+                "mobileUrl": "https://foursquare.com/v/4f69f2b76d86f87117bb13ab/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until 11:00 AM",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "506f8427e4b0997e4b67ce44",
+                        "createdAt": 1349485607,
+                        "prefix": "https://irs2.4sqi.net/img/general/",
+                        "suffix": "/48331_J8ygsgV7imomR0DYpa46D-ExZGtTmntX2gQXGi0i0pk.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "48331",
+                          "firstName": "Gerald",
+                          "lastName": "Soto",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/48331_1259361270756.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "venuePage": { "id": "83879813" },
+              "storeId": "",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "506f8427e4b0997e4b67ce44",
+                    "createdAt": 1349485607,
+                    "prefix": "https://irs2.4sqi.net/img/general/",
+                    "suffix": "/48331_J8ygsgV7imomR0DYpa46D-ExZGtTmntX2gQXGi0i0pk.jpg",
+                    "width": 612,
+                    "height": 612,
+                    "user": {
+                      "id": "48331",
+                      "firstName": "Gerald",
+                      "lastName": "Soto",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs3.4sqi.net/img/user/",
+                        "suffix": "/48331_1259361270756.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "5166a91be4b02bbf842f423d",
+                "createdAt": 1365682459,
+                "text": "This lively eatery pulls in Brooklynites looking for both homey abuela standbys (rich, cilantro-nipped guac; fragrant pozole verde) and palate-expanding fare (tongue tacos, duck-leg tamales).",
+                "type": "user",
+                "url": "http://www.timeout.com/newyork/food-drink/best-new-mexican-eats-gran-electrica",
+                "canonicalUrl": "https://foursquare.com/item/5166a91be4b02bbf842f423d",
+                "likes": {
+                  "count": 17,
+                  "groups": [ ],
+                  "summary": "17 likes"
+                },
+                "logView": true,
+                "agreeCount": 17,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Mar 19, 2015",
+                "todo": { "count": 22 },
+                "user": {
+                  "id": "742542",
+                  "firstName": "Time Out New York",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/XXHKCBSQHBORZNSR.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-4f69f2b76d86f87117bb13ab-26"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "3fd66200f964a520daf11ee3",
+              "name": "South Street Seaport",
+              "contact": {
+                "phone": "+12127327678",
+                "formattedPhone": "+1 212-732-7678",
+                "twitter": "theseaport"
+              },
+              "location": {
+                "address": "South St",
+                "crossStreet": "Pier 17",
+                "lat": 40.70566047104496,
+                "lng": -74.00287628173828,
+                "distance": 675,
+                "postalCode": "10038",
+                "cc": "US",
+                "city": "New York",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "South St (Pier 17)", "New York, NY 10038", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1e0941735",
+                  "name": "Harbor / Marina",
+                  "pluralName": "Harbors / Marinas",
+                  "shortName": "Harbor / Marina",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/harbor_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 52407,
+                "usersCount": 33278,
+                "tipCount": 200
+              },
+              "url": "http://www.southstreetseaport.com",
+              "rating": 9.2,
+              "ratingColor": "00B551",
+              "ratingSignals": 804,
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "5012f46de4b0adaeb06ebdce",
+                        "createdAt": 1343419501,
+                        "prefix": "https://irs2.4sqi.net/img/general/",
+                        "suffix": "/7MjguOX3fp-uneYFULE_jSdMLnxYc60tUIfxQkc5GLY.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "3659191",
+                          "firstName": "Alexandre",
+                          "lastName": "Jouanne",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/01USCATDTBS5J5BB.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "venuePage": { "id": "59071427" },
+              "storeId": "",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "5012f46de4b0adaeb06ebdce",
+                    "createdAt": 1343419501,
+                    "prefix": "https://irs2.4sqi.net/img/general/",
+                    "suffix": "/7MjguOX3fp-uneYFULE_jSdMLnxYc60tUIfxQkc5GLY.jpg",
+                    "width": 612,
+                    "height": 612,
+                    "user": {
+                      "id": "3659191",
+                      "firstName": "Alexandre",
+                      "lastName": "Jouanne",
+                      "gender": "male",
+                      "photo": {
+                        "prefix": "https://irs1.4sqi.net/img/user/",
+                        "suffix": "/01USCATDTBS5J5BB.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "4be227e670c603bb64649ab4",
+                "createdAt": 1273112550,
+                "text": "Catch N before he sails into the sunset on his boat, The Charlotte. Or go with him—he’s been known to take impromptu trips (and even more impromptu guests) around the island.",
+                "type": "user",
+                "url": "http://www.gossipgirl.net/blog/",
+                "canonicalUrl": "https://foursquare.com/item/4be227e670c603bb64649ab4",
+                "likes": {
+                  "count": 79,
+                  "groups": [ ],
+                  "summary": "79 likes"
+                },
+                "logView": true,
+                "agreeCount": 79,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Aug 17, 2015",
+                "todo": { "count": 510 },
+                "user": {
+                  "id": "749968",
+                  "firstName": "Gossip Girl",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs2.4sqi.net/img/user/",
+                    "suffix": "/TBW52TWGW0QQSHSB.jpg"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-3fd66200f964a520daf11ee3-27"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "51a3ab412fc69e7654bc731f",
+              "name": "Luke's Lobster",
+              "contact": {
+                "phone": "+19178827516",
+                "formattedPhone": "+1 917-882-7516",
+                "twitter": "lukeslobster"
+              },
+              "location": {
+                "address": "11 Water St",
+                "crossStreet": "Under the BK Bridge",
+                "lat": 40.70348073569149,
+                "lng": -73.99405717849731,
+                "distance": 633,
+                "postalCode": "11201",
+                "cc": "US",
+                "city": "Brooklyn",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "11 Water St (Under the BK Bridge)", "Brooklyn, NY 11201", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d1ce941735",
+                  "name": "Seafood Restaurant",
+                  "pluralName": "Seafood Restaurants",
+                  "shortName": "Seafood",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1753,
+                "usersCount": 1444,
+                "tipCount": 33
+              },
+              "url": "http://lukeslobster.com",
+              "price": {
+                "tier": 2,
+                "message": "Moderate",
+                "currency": "$"
+              },
+              "rating": 8.8,
+              "ratingColor": "73CF42",
+              "ratingSignals": 149,
+              "delivery": {
+                "id": "29452",
+                "url": "http://www.seamless.com/food-delivery/restaurant.29452.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+                "provider": { "name": "seamless" }
+              },
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "http://lukeslobster.com/menu/",
+                "mobileUrl": "http://lukeslobster.com/menu/",
+                "externalUrl": "http://lukeslobster.com/menu/"
+              },
+              "allowMenuUrlEdit": true,
+              "hours": {
+                "status": "Closed until 11:00 AM",
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "51bca72e498ee13dfdcc83e9",
+                        "createdAt": 1371318062,
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "suffix": "/1318328_RH4PMZQLL7j0U0ZxzuEovz553Rr6B-JTRuhJRIc3kPE.jpg",
+                        "width": 959,
+                        "height": 717,
+                        "user": {
+                          "id": "1318328",
+                          "firstName": "Luca DL",
+                          "gender": "none",
+                          "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/MXNMM5YD00MZAYOW.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "51bca72e498ee13dfdcc83e9",
+                    "createdAt": 1371318062,
+                    "prefix": "https://irs3.4sqi.net/img/general/",
+                    "suffix": "/1318328_RH4PMZQLL7j0U0ZxzuEovz553Rr6B-JTRuhJRIc3kPE.jpg",
+                    "width": 959,
+                    "height": 717,
+                    "user": {
+                      "id": "1318328",
+                      "firstName": "Luca DL",
+                      "gender": "none",
+                      "photo": {
+                        "prefix": "https://irs1.4sqi.net/img/user/",
+                        "suffix": "/MXNMM5YD00MZAYOW.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "51a3e040498e1473d4af6ad7",
+                "createdAt": 1369694272,
+                "text": "Best Lobster roll. Pair with Brooklyn Ice cream for a great eating adventure.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51a3e040498e1473d4af6ad7",
+                "likes": {
+                  "count": 3,
+                  "groups": [ ],
+                  "summary": "3 likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Jul 20, 2014",
+                "todo": { "count": 0 },
+                "user": {
+                  "id": "538966",
+                  "firstName": "Brittany",
+                  "lastName": "L.",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/N1D45LVPOD25AZSH.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-51a3ab412fc69e7654bc731f-28"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4e1bc07fa809bd1305bff584",
+              "name": "East River Esplanade",
+              "contact": {
+                "twitter": "nycparks",
+                "facebook": "104475634308",
+                "facebookUsername": "BartowPell",
+                "facebookName": "Bartow-Pell Mansion Museum"
+              },
+              "location": {
+                "address": "South St",
+                "crossStreet": "From Pier 11 to Pier 17",
+                "lat": 40.70484714530104,
+                "lng": -74.00459289550781,
+                "distance": 664,
+                "cc": "US",
+                "city": "New York",
+                "state": "NY",
+                "country": "United States",
+                "formattedAddress": [ "South St (From Pier 11 to Pier 17)", "New York, NY", "United States" ]
+              },
+              "categories": [
+                {
+                  "id": "52e81612bcbc57f1066b7a25",
+                  "name": "Pedestrian Plaza",
+                  "pluralName": "Pedestrian Plazas",
+                  "shortName": "Pedestrian Street/Plaza",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 4353,
+                "usersCount": 1775,
+                "tipCount": 15
+              },
+              "url": "http://www.nyharborparks.org/visit/eari.html",
+              "rating": 8.9,
+              "ratingColor": "73CF42",
+              "ratingSignals": 90,
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 1,
+                "groups": [
+                  {
+                    "type": "venue",
+                    "name": "Venue photos",
+                    "count": 1,
+                    "items": [
+                      {
+                        "id": "501039ede4b019e01c70c73e",
+                        "createdAt": 1343240685,
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "suffix": "/hDfRRDhqDGQREXk97qVCsnIun8NPKvDCMDwuB_i8s20.jpg",
+                        "width": 720,
+                        "height": 537,
+                        "user": {
+                          "id": "2545347",
+                          "firstName": "Liesel",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/2545347-WNCJ5DRTZ5AQWAFQ.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": [ ]
+              },
+              "featuredPhotos": {
+                "count": 1,
+                "items": [
+                  {
+                    "id": "501039ede4b019e01c70c73e",
+                    "createdAt": 1343240685,
+                    "prefix": "https://irs1.4sqi.net/img/general/",
+                    "suffix": "/hDfRRDhqDGQREXk97qVCsnIun8NPKvDCMDwuB_i8s20.jpg",
+                    "width": 720,
+                    "height": 537,
+                    "user": {
+                      "id": "2545347",
+                      "firstName": "Liesel",
+                      "gender": "female",
+                      "photo": {
+                        "prefix": "https://irs1.4sqi.net/img/user/",
+                        "suffix": "/2545347-WNCJ5DRTZ5AQWAFQ.jpg"
+                      }
+                    },
+                    "visibility": "public"
+                  }
+                ]
+              }
+            },
+            "tips": [
+              {
+                "id": "50db6739e4b047bb21fe17d8",
+                "createdAt": 1356556089,
+                "text": "The first phase of improving the East River Waterfront Esplanade was a 2-mile-long, City-owned public open space extending from the Battery Maritime Building to Montgomery Street.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/50db6739e4b047bb21fe17d8",
+                "likes": {
+                  "count": 23,
+                  "groups": [ ],
+                  "summary": "23 likes"
+                },
+                "logView": true,
+                "agreeCount": 23,
+                "disagreeCount": 0,
+                "lastVoteText": "Upvoted Jun 24, 2014",
+                "todo": { "count": 4 },
+                "user": {
+                  "id": "13764780",
+                  "firstName": "City of New York",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://irs1.4sqi.net/img/user/",
+                    "suffix": "/2X1FKJPUY3DGRRK3.png"
+                  },
+                  "type": "page"
+                }
+              }
+            ],
+            "referralId": "e-0-4e1bc07fa809bd1305bff584-29"
+          }
+        ]
+      }
+    ]
+  }
+}

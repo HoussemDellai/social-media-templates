@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:XamarinForms.ViewModels;assembly=XamarinForms"
+             x:Class="XamarinForms.Views.TwitterPage"
+             Title="Twitter">
+
+  <ContentPage.BindingContext>
+    <viewModels:TwitterViewModel/>
+  </ContentPage.BindingContext>
+
+  <StackLayout Padding="5,10"
+               BackgroundColor="White">
+
+    <Label Text="Tweets"
+           TextColor="Black"
+           FontSize="22"/>
+
+    <ListView ItemsSource="{Binding Tweets}"
+              HasUnevenRows="True">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+
+            <StackLayout Orientation="Horizontal">
+              <Image Source="{Binding ImageUrl}"
+                     WidthRequest="60"
+                     HeightRequest="60"
+                     VerticalOptions="Start"/>
+              
+              <StackLayout Orientation="Vertical">
+                <Label Text="{Binding ScreenName}"
+                       TextColor="#2196F3"
+                       FontSize="22"/>
+                <Label Text="{Binding Text}"
+                    TextColor="Black"
+                    FontSize="18"/>
+                <Image Source="{Binding MediaUrl}"/>
+              </StackLayout>
+            </StackLayout>
+            
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+
+</ContentPage>

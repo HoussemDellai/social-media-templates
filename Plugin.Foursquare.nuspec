@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata minClientVersion="2.8.3">
+    <id>Plugin.Foursquare</id>
+    <version>1.0.0</version>
+    <title>Foursquare Plugin for Xamarin and Windows</title>
+    <authors>Houssem Dellai</authors>
+    <owners>Houssem Dellai</owners>
+    <licenseUrl>
+      https://github.com/HoussemDellai/social-media-templates
+    </licenseUrl>
+    <projectUrl>
+      https://github.com/HoussemDellai/social-media-templates
+    </projectUrl>
+    <iconUrl>
+      https://github.com/HoussemDellai/social-media-templates/blob/master/Icons/plugin.foursquare.PNG?raw=true
+    </iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Provides a sample implementation of a ContentPage that shows Foursquare places  using the Foursquare API.
+    </description>
+    <summary>Provides a sample implementation of a ContentPage that shows venues of using the Foursquare API.</summary>
+    <tags>xamarin, pcl, xam.pcl, plugin, plugin for xamarin, windows phone, winphone, wp8, winrt, android, xamarin.forms, ios, Foursquare</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="8.0.3" />
+      <dependency id="Microsoft.Net.Http" version="2.2.29" />
+      <!--<dependency id="Plugin.Share" version="4.0.2" />-->
+      <!--<group targetFramework="net">
+			</group>
+			<group targetFramework="win">
+			</group>
+			<group targetFramework="wp">
+			</group>
+			<group targetFramework="wpa">
+			</group>
+			<group targetFramework="MonoAndroid">
+			</group>
+			<group targetFramework="Xamarin.iOS10">
+			</group>
+			<group targetFramework="Xamarin.Mac20">
+			</group>
+			<group targetFramework="portable-net45+win+wpa81+wp80">
+			</group>
+			<group targetFramework="uap">
+			</group>
+			<group targetFramework="dotnet">
+			</group>-->
+    </dependencies>
+  </metadata>
+  <files>
+    <!--Core-->
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\Models\FoursquareVenues.cs"
+          target="content\Models\FoursquareVenues.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\ViewModels\FoursquareViewModel.cs"
+          target="content\ViewModels\FoursquareViewModel.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\Views\FoursquareViewPage.cs"
+          target="content\Views\FoursquareViewPage.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\SampleData\foursquare.json"
+          target="content\SampleData\foursquare.json" />
+    <!--<file src="readme_instagram.txt" 
+          target="content\readme_instagram.txt"/>-->
+  </files>
+</package>

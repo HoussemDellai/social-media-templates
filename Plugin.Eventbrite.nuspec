@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata minClientVersion="2.8.3">
+    <id>Plugin.Eventbrite</id>
+    <version>1.0.0</version>
+    <title>Eventbrite Plugin for Xamarin and Windows</title>
+    <authors>Houssem Dellai</authors>
+    <owners>Houssem Dellai</owners>
+    <licenseUrl>
+      https://github.com/HoussemDellai/social-media-templates
+    </licenseUrl>
+    <projectUrl>
+      https://github.com/HoussemDellai/social-media-templates
+    </projectUrl>
+    <iconUrl>
+      https://github.com/HoussemDellai/social-media-templates/blob/master/Icons/plugin.youtube.PNG?raw=true
+    </iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Provides a sample implementation of a ContentPage that shows Eventbrite events from eventbrite API.
+    </description>
+    <summary>Provides a sample implementation of a ContentPage that shows Eventbrite events from eventbrite API.</summary>
+    <tags>xamarin, pcl, xam.pcl, plugin, plugin for xamarin, windows phone, winphone, wp8, winrt, android, xamarin.forms, ios, Eventbrite</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="8.0.3" />
+      <dependency id="Microsoft.Net.Http" version="2.2.29" />
+    </dependencies>
+  </metadata>
+  <files>
+    <!--Core-->
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\Models\EventbriteEvents.cs"
+          target="content\Models\EventbriteEvents.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\ViewModels\EventbriteViewModel.cs"
+          target="content\ViewModels\EventbriteViewModel.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\Views\EventbriteViewPage.cs"
+          target="content\Views\EventbriteViewPage.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\Services\EventbriteService.cs"
+          target="content\Services\EventbriteService.cs" />
+    <!--<file src="readme.txt" 
+          target="content\readme.txt"/>-->
+  </files>
+</package>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata minClientVersion="2.8.3">
+		<id>Plugin.Flickr</id>
+		<version>1.0.1</version>
+		<title>Flickr Plugin for Xamarin and Windows</title>
+		<authors>Houssem Dellai</authors>
+		<owners>Houssem Dellai</owners>
+    <licenseUrl>
+      https://github.com/HoussemDellai/social-media-templates
+    </licenseUrl>
+    <projectUrl>
+      https://github.com/HoussemDellai/social-media-templates
+    </projectUrl>
+		<iconUrl>https://raw.githubusercontent.com/HoussemDellai/social-media-templates/master/Icons/flickr.PNG</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>
+      Provides a sample implementation of a ContentPage that shows Flickr images of a specific user using the Flickr API.
+    </description>
+		<summary>Provides a sample implementation of a ContentPage that shows images of a specific user using the Flickr API.</summary>
+		<tags>xamarin, pcl, xam.pcl, plugin, plugin for xamarin, windows phone, winphone, wp8, winrt, android, xamarin.forms, ios, Flickr</tags>
+		<dependencies>
+      <dependency id="Newtonsoft.Json" version="8.0.3" />
+      <dependency id="Microsoft.Net.Http" version="2.2.29" />
+			<!--<group targetFramework="net">
+			</group>
+			<group targetFramework="win">
+			</group>
+			<group targetFramework="wp">
+			</group>
+			<group targetFramework="wpa">
+			</group>
+			<group targetFramework="MonoAndroid">
+			</group>
+			<group targetFramework="Xamarin.iOS10">
+			</group>
+			<group targetFramework="Xamarin.Mac20">
+			</group>
+			<group targetFramework="portable-net45+win+wpa81+wp80">
+			</group>
+			<group targetFramework="uap">
+			</group>
+			<group targetFramework="dotnet">
+			</group>-->
+		</dependencies>
+	</metadata>
+	<files>
+		<!--Core-->
+		<file src="Xamarin.Forms\XamarinForms\XamarinForms\Models\FlickrItem.cs" 
+          target="content\Models\FlickrItem.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\ViewModels\FlickrViewModel.cs"
+          target="content\ViewModels\FlickrViewModel.cs" />
+    <file src="Xamarin.Forms\XamarinForms\XamarinForms\Views\FlickrViewPage.cs"
+          target="content\Views\FlickrViewPage.cs" />
+    <!--<file src="readme_instagram.txt" 
+          target="content\readme_instagram.txt"/>-->
+  </files>
+</package>

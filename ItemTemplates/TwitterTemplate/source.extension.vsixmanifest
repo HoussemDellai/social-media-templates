@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="TwitterTemplate.Houssem Dellai.347b98d7-0d7f-4559-971f-f68047848035" Version="1.5" Language="en-US" Publisher="Houssem Dellai" />
+    <DisplayName>Twitter Template</DisplayName>
+    <Description xml:space="preserve">Adds source code files to Xamarin Forms PCL project to show tweets in a ContentPage.</Description>
+    <Icon>twitter.png</Icon>
+    <PreviewImage>TwitterPage.png</PreviewImage>
+    <Tags>twitter;</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community"
+                        Version="[14.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP"
+                DisplayName="Microsoft .NET Framework"
+                d:Source="Manual"
+                Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+
+    <Asset Type="Microsoft.VisualStudio.ItemTemplate"
+           d:Source="File"
+           Path="ItemTemplates"
+           d:TargetPath="ItemTemplates\TwitterPage.zip" />
+
+    <Asset Type="linqtotwitter.4.1.0.nupkg"
+           d:Source="File"
+           Path="Packages\linqtotwitter.4.1.0.nupkg"
+           d:VsixSubPath="Packages" />
+
+  </Assets>
+</PackageManifest>
